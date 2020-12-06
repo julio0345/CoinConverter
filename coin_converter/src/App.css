@@ -1,0 +1,16 @@
+.row{
+  display: flex;
+  margin-top:40px;
+  margin-bottom:20px;
+  justify-content: space-around;
+}
+
+.App{
+  text-align: center;
+  max-width: 700px;
+  margin: auto;
+  margin-bottom: 200px;
+  border: 1px solid;
+  border-radius: 10px;
+  background: gray;
+}
